@@ -1,0 +1,7 @@
+C:\Users\RABINOVICH-SM\Desktop\Lesson3\SumOfNumbersAndException\bin\Debug\SumOfNumbersAndException.exe.config
+C:\Users\RABINOVICH-SM\Desktop\Lesson3\SumOfNumbersAndException\bin\Debug\SumOfNumbersAndException.exe
+C:\Users\RABINOVICH-SM\Desktop\Lesson3\SumOfNumbersAndException\bin\Debug\SumOfNumbersAndException.pdb
+C:\Users\RABINOVICH-SM\Desktop\Lesson3\SumOfNumbersAndException\obj\Debug\SumOfNumbersAndException.csprojAssemblyReference.cache
+C:\Users\RABINOVICH-SM\Desktop\Lesson3\SumOfNumbersAndException\obj\Debug\SumOfNumbersAndException.csproj.CoreCompileInputs.cache
+C:\Users\RABINOVICH-SM\Desktop\Lesson3\SumOfNumbersAndException\obj\Debug\SumOfNumbersAndException.exe
+C:\Users\RABINOVICH-SM\Desktop\Lesson3\SumOfNumbersAndException\obj\Debug\SumOfNumbersAndException.pdb

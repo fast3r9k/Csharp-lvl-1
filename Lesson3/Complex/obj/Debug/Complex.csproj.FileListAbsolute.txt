@@ -1,0 +1,7 @@
+C:\Users\RABINOVICH-SM\Desktop\Complex\Complex\bin\Debug\Complex.exe.config
+C:\Users\RABINOVICH-SM\Desktop\Complex\Complex\bin\Debug\Complex.exe
+C:\Users\RABINOVICH-SM\Desktop\Complex\Complex\bin\Debug\Complex.pdb
+C:\Users\RABINOVICH-SM\Desktop\Complex\Complex\obj\Debug\Complex.csprojAssemblyReference.cache
+C:\Users\RABINOVICH-SM\Desktop\Complex\Complex\obj\Debug\Complex.csproj.CoreCompileInputs.cache
+C:\Users\RABINOVICH-SM\Desktop\Complex\Complex\obj\Debug\Complex.exe
+C:\Users\RABINOVICH-SM\Desktop\Complex\Complex\obj\Debug\Complex.pdb
