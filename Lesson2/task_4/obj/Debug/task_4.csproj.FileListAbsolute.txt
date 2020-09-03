@@ -1,0 +1,6 @@
+C:\Users\mikityuk-vv\Desktop\dz\task_4\bin\Debug\task_4.exe.config
+C:\Users\mikityuk-vv\Desktop\dz\task_4\bin\Debug\task_4.exe
+C:\Users\mikityuk-vv\Desktop\dz\task_4\bin\Debug\task_4.pdb
+C:\Users\mikityuk-vv\Desktop\dz\task_4\obj\Debug\task_4.csproj.CoreCompileInputs.cache
+C:\Users\mikityuk-vv\Desktop\dz\task_4\obj\Debug\task_4.exe
+C:\Users\mikityuk-vv\Desktop\dz\task_4\obj\Debug\task_4.pdb

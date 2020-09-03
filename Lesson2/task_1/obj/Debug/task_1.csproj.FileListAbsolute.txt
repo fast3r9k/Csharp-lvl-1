@@ -1,0 +1,6 @@
+C:\Users\mikityuk-vv\Desktop\dz\task_1\bin\Debug\task_1.exe.config
+C:\Users\mikityuk-vv\Desktop\dz\task_1\bin\Debug\task_1.exe
+C:\Users\mikityuk-vv\Desktop\dz\task_1\bin\Debug\task_1.pdb
+C:\Users\mikityuk-vv\Desktop\dz\task_1\obj\Debug\task_1.csproj.CoreCompileInputs.cache
+C:\Users\mikityuk-vv\Desktop\dz\task_1\obj\Debug\task_1.exe
+C:\Users\mikityuk-vv\Desktop\dz\task_1\obj\Debug\task_1.pdb

@@ -1,0 +1,7 @@
+C:\Users\mikityuk-vv\Desktop\dz\dz\bin\Debug\dz.exe.config
+C:\Users\mikityuk-vv\Desktop\dz\dz\bin\Debug\dz.exe
+C:\Users\mikityuk-vv\Desktop\dz\dz\bin\Debug\dz.pdb
+C:\Users\mikityuk-vv\Desktop\dz\dz\obj\Debug\dz.csprojAssemblyReference.cache
+C:\Users\mikityuk-vv\Desktop\dz\dz\obj\Debug\dz.csproj.CoreCompileInputs.cache
+C:\Users\mikityuk-vv\Desktop\dz\dz\obj\Debug\dz.exe
+C:\Users\mikityuk-vv\Desktop\dz\dz\obj\Debug\dz.pdb
