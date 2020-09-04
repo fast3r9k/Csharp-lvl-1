@@ -1,0 +1,7 @@
+C:\Users\RABINOVICH-SM\Desktop\Csharp-lvl-1\Lesson3\fractions\bin\Debug\fractions.exe.config
+C:\Users\RABINOVICH-SM\Desktop\Csharp-lvl-1\Lesson3\fractions\bin\Debug\fractions.exe
+C:\Users\RABINOVICH-SM\Desktop\Csharp-lvl-1\Lesson3\fractions\bin\Debug\fractions.pdb
+C:\Users\RABINOVICH-SM\Desktop\Csharp-lvl-1\Lesson3\fractions\obj\Debug\fractions.csprojAssemblyReference.cache
+C:\Users\RABINOVICH-SM\Desktop\Csharp-lvl-1\Lesson3\fractions\obj\Debug\fractions.csproj.CoreCompileInputs.cache
+C:\Users\RABINOVICH-SM\Desktop\Csharp-lvl-1\Lesson3\fractions\obj\Debug\fractions.exe
+C:\Users\RABINOVICH-SM\Desktop\Csharp-lvl-1\Lesson3\fractions\obj\Debug\fractions.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complex", "Complex\Complex.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfNumbersAndException", "SumOfNumbersAndException\SumOfNumbersAndException.csproj", "{7241A465-8236-4633-B2F0-2CCF7708D24D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fractions", "fractions\fractions.csproj", "{51E25A30-167D-4786-8DBA-E5F1266BE65C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7241A465-8236-4633-B2F0-2CCF7708D24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7241A465-8236-4633-B2F0-2CCF7708D24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7241A465-8236-4633-B2F0-2CCF7708D24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E25A30-167D-4786-8DBA-E5F1266BE65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E25A30-167D-4786-8DBA-E5F1266BE65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E25A30-167D-4786-8DBA-E5F1266BE65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E25A30-167D-4786-8DBA-E5F1266BE65C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
