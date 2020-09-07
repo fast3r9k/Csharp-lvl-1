@@ -1,0 +1,6 @@
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayOfIntegers\bin\Debug\ArrayOfIntegers.exe.config
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayOfIntegers\bin\Debug\ArrayOfIntegers.exe
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayOfIntegers\bin\Debug\ArrayOfIntegers.pdb
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayOfIntegers\obj\Debug\ArrayOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayOfIntegers\obj\Debug\ArrayOfIntegers.exe
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayOfIntegers\obj\Debug\ArrayOfIntegers.pdb
