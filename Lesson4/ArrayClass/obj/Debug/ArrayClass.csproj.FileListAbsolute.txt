@@ -1,0 +1,7 @@
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayClass\bin\Debug\ArrayClass.exe.config
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayClass\bin\Debug\ArrayClass.exe
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayClass\bin\Debug\ArrayClass.pdb
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayClass\obj\Debug\ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayClass\obj\Debug\ArrayClass.exe
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayClass\obj\Debug\ArrayClass.pdb
+C:\Users\KYLAKSSD\Desktop\Lesson4\ArrayClass\obj\Debug\ArrayClass.csprojAssemblyReference.cache

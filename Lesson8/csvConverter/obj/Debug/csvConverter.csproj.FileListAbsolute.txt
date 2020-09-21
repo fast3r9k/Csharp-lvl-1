@@ -1,0 +1,7 @@
+C:\Users\KYLAKSSD\Desktop\wpf\csvConverter\bin\Debug\csvConverter.exe.config
+C:\Users\KYLAKSSD\Desktop\wpf\csvConverter\bin\Debug\csvConverter.exe
+C:\Users\KYLAKSSD\Desktop\wpf\csvConverter\bin\Debug\csvConverter.pdb
+C:\Users\KYLAKSSD\Desktop\wpf\csvConverter\obj\Debug\csvConverter.csprojAssemblyReference.cache
+C:\Users\KYLAKSSD\Desktop\wpf\csvConverter\obj\Debug\csvConverter.csproj.CoreCompileInputs.cache
+C:\Users\KYLAKSSD\Desktop\wpf\csvConverter\obj\Debug\csvConverter.exe
+C:\Users\KYLAKSSD\Desktop\wpf\csvConverter\obj\Debug\csvConverter.pdb
